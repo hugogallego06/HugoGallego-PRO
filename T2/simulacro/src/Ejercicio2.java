@@ -22,13 +22,13 @@ public class Ejercicio2 {
         System.out.println("Presupuestos del 3º participante: ");
         int presupuesto3 =scanner.nextInt();
 
-        boolean comparador = (numero1==11);
+        boolean comparador = numero1==11;
         System.out.println("El primer participante tiene 11 jugadores: "+comparador);
-        comparador = (numero2%2)==0;
+        comparador = numero2%2 ==0;
         System.out.println("El segundo participante tiene jugadores pares: "+comparador);
-        comparador =  presupuesto3>0;
+        comparador =  presupuesto3>=0;
         System.out.println("El tercer participante tiene un presupuesto positivo: "+comparador);
-        comparador = numero1==11 && presupuesto1>0 && numero2==11 && presupuesto2>0 && numero3==11 && presupuesto3>0;
+        comparador = (numero1==11 && numero2==11 && numero3==11) && (presupuesto1>=0 && presupuesto2>=0 && presupuesto3>=0);
         System.out.println("La liga está preparada para empezar: "+comparador);
     }
 }
