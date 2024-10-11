@@ -1,7 +1,12 @@
+import java.util.Scanner;
+
 public class ejerciciosFor {
     public static void main(String[]args){
-        for (int i=0; i<6; i++){
-            System.out.println("Operacion numero "+i);
+        Scanner scanner=new Scanner(System.in);
+        System.out.println("Introduce un numero para ver su tabla de multiplicar");
+        int numero=scanner.nextInt();
+        for (int a=0; a<11; a++) {
+            System.out.printf("%d * %d = %d\n ",numero,a,numero*a);
         }
     }
 }
