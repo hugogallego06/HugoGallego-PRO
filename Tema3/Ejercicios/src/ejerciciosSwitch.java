@@ -47,8 +47,8 @@ public class ejerciciosSwitch {
 
     public static void ejercicio2() {
         System.out.println("Escribe un caracter");
-        char letra = scanner.next().charAt(0);
-        switch (letra) {
+        char letra1 = scanner.next().charAt(0);
+        switch (letra1) {
             case 'A' | 'E' | 'I' | 'O' | 'U':
             default:
                 System.out.println("Es una consonante");
