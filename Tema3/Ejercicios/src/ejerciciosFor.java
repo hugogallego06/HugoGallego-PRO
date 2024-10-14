@@ -1,4 +1,3 @@
-import java.util.Random;
 import java.util.Scanner;
 
 public class ejerciciosFor {
@@ -64,8 +63,15 @@ public class ejerciciosFor {
         System.out.println("Introduce un numero de 0 al 5, este será tu exponente: ");
         int exponente=scanner.nextInt();
         int total=1;
-        for (int i = 0; i <exponente ; i++) {
-            total*=base;
+        if (base == 00) {
+            System.out.println("Error numero es 00");
+        } else if (exponente == 0) {
+            exponente=1;
+            System.out.printf("Tu exponente era 0 por lo que pasa a ser %d\n",exponente);
+        }else {
+            for (int i = 0; i <exponente ; i++) {
+                total*=base;
+            }
         }
         System.out.println(base+" ^ "+exponente+" = "+total);
     }
@@ -91,53 +97,66 @@ public class ejerciciosFor {
         for (int i = 1; i < dado+1; i++) {
             System.out.println("Es la "+i+" vez que lanzas el dado y tu num es: "+(int)(Math.random()*6+1));
         }
-        }
+    }
     public static void ejercicio8() {
         //Pedir 10 números.
-        int numeros = 0;
+        int numeros=0;
         int acumulador = 0;
         for (int i = 1; i < 11; i++) {
             System.out.println("Introduce " + i + " numero:");
             numeros = scanner.nextInt();
             acumulador += numeros;
         }
-        //Mostrar la media de los números positivos, la media de los números negativos y la cantidad de ceros
-        //if (numeros < 0) {
-        //    System.out.println("La media de los numeros negativos introducidos es " + acumulador / 2);
-        //} else if (numeros > 0) {
-        //    System.out.println("La media de los numeros positivos introducidos es " + acumulador / 2);
+        //Mostrar la media de los números positivos, la media de los números negativos y
+        if (numeros < 0) {
+            System.out.println("La media de los numeros negativos introducidos es " + acumulador / 2);
+        } else {
+            System.out.println("La media de los numeros positivos introducidos es " + acumulador / 2);
+        }
+        //La cantidad de ceros
 
-        //}
+
+
     }
     public static void ejercicio9() {
         //Pedir 10 sueldos. Mostrar su suma, media
-        int sueldo=0;
         int sumatorio=0;
+        int sueldo=0;
+        int contadorMayores=0;
         for (int i = 1; i < 11; i++) {
             System.out.println("Tu "+i+" sueldo es: ");
             sueldo=scanner.nextInt();
             sumatorio+=sueldo;
+            if (sueldo > 1000) {
+                contadorMayores++;
+            }
         }
         System.out.println("La suma total de sueldos es de : "+sumatorio);
         System.out.println("La media total de sueldos es de : "+sumatorio/2);
+        System.out.println("Sueldos mayores de 1000: "+contadorMayores);
         //cuantos hay mayores de 1000€.
 
     }
     public static void ejercicio10() {
         //Pedir 6 notas escribir la cantidad de alumnos aprobados, condicionados (=4) y suspensos.
-        int notas = 0;
+        int aprobado = 0;
+        int condicionado = 0;
+        int suspenso = 0;
         for (int i = 1; i < 11; i++) {
             System.out.println("Tu nota " + i + " es: ");
-            notas = scanner.nextInt();
+            int notas = scanner.nextInt();
             if (notas > 4) {
-                System.out.println("Aprobado");
+                aprobado++;
             } else if (notas == 4) {
-                System.out.println("Condicionado");
+                condicionado++;
             } else {
-                System.out.println("Suspenso");
+                suspenso++;
             }
+
         }
+        System.out.println("Aprobados "+aprobado);
+        System.out.println("Condicionados "+condicionado);
+        System.out.println("Suspensos "+suspenso);
     }
 }
-
 
