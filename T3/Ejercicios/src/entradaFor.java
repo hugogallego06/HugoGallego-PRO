@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ejemplosEjerciciosFor {
+public class entradaFor {
     public static void main(String[]args){
         //ejercicioClase1();
         //ejercicioClase2();
