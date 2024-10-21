@@ -51,7 +51,7 @@ public class entradaWhile {
                     System.out.println("Saliendo");
                     break;
                 default:
-                    System.out.println("Opción incorrecta, introduce otro numero");
+                    System.out.println("Opción incorrecta, introduce otro numero.");
             }
         }while (numero!=5);
     }

@@ -3,9 +3,9 @@ import java.util.Scanner;
 public class ejerciciosWhile {
     public static void main(String[] args) {
         //ejercicio1();
-        ejercicio2();
+        //ejercicio2();
         //ejercicio3();
-        //ejercicio4();
+        ejercicio4();
         //ejercicio5();
     }
     static Scanner scanner=new Scanner(System.in);
@@ -41,29 +41,46 @@ public class ejerciciosWhile {
         System.out.println("El Mínimo Común Múltiplo de " + numero1 + " y " + numero2 + " es: " + resultado);
     }
     public static void ejercicio3(){
-        int aleatorio1=(int)(Math.random()+100);
-        int aleatorio2=(int)(Math.random()+100);
-        while (aleatorio1!=0 && aleatorio2!=0){
-                aleatorio1=Integer.MAX_VALUE;
-                aleatorio2=Integer.MAX_VALUE;
-                System.out.println(aleatorio1+", "+aleatorio2);
-        }
-        System.out.println("Lo siento el numero genrado fue un 0");
+       int num1=(int)(Math.random()*100);
+       int num2=(int)(Math.random()*100);
+       while (num1!=0 && num2!=0){
+           num1=(int)(Math.random()*100);
+           num2=(int)(Math.random()*100);
+           int maximos=Math.max(num1,num2);
+           System.out.printf("Tu numero maximo entre %d y %d es: %d\n ",num1,num2,maximos);
+       }
+
     }
     public static void ejercicio4(){
-        int acumulador=0;
-        int numero=-1;
-        while (numero!=0){
-            System.out.println("Introduce un numero");
+        int numero;
+        do {
+            System.out.println("Introduce un entero no negativo," +
+                    " para convertirlo en binario,octal" +
+                    " y hexadecimal");
             numero=scanner.nextInt();
-            if (numero<0){
-                System.out.println("El numero introducido es negativo. Introduce otro numero :");
-                numero=scanner.nextInt();
-            }else {
-                acumulador+=numero;
+            for (int i = numero; i >=0 ; i--) {
+                i--;
+                int division=numero/2;
+                int resto=numero%2;
+                System.out.printf("La dision es %d y el resto %d",division,resto);
             }
+            int resultadoDivision=(numero/2);
+            int resultadoResto=(resultadoDivision%2);
+            System.out.println("Tu numero binario es: "+resultadoResto+", "+resultadoDivision);
+            resultadoDivision=resultadoDivision/2;
+            System.out.println(resultadoDivision);
         }
-        System.out.println("La suma de los numeros positivos es: "+acumulador);
+        while (numero>1);
+
+
+        //10 y en binario 1010
+        // 10 / 2 = 5 resto 0.
+        // 5 / 2 = 2 resto 1.
+        // 2 / 2 = 1 resto 0.
+        // para sacarlo dividmos entre 2 hasta que no se pueda mas
+        // los restos son mis numeros binarios
+
+
     }
     public static void ejercicio5(){
         int acumulador=0;
