@@ -5,8 +5,8 @@ public class ejerciciosWhile {
         //ejercicio1();
         //ejercicio2();
         //ejercicio3();
-        ejercicio4();
-        //ejercicio5();
+        //ejercicio4();
+        ejercicio5();
     }
     static Scanner scanner=new Scanner(System.in);
     public static void ejercicio1(){
@@ -58,17 +58,12 @@ public class ejerciciosWhile {
                     " para convertirlo en binario,octal" +
                     " y hexadecimal");
             numero=scanner.nextInt();
-            for (int i = numero; i >=0 ; i--) {
-                i--;
-                int division=numero/2;
-                int resto=numero%2;
-                System.out.printf("La dision es %d y el resto %d",division,resto);
-            }
-            int resultadoDivision=(numero/2);
-            int resultadoResto=(resultadoDivision%2);
-            System.out.println("Tu numero binario es: "+resultadoResto+", "+resultadoDivision);
-            resultadoDivision=resultadoDivision/2;
-            System.out.println(resultadoDivision);
+            String binario=Integer.toBinaryString(numero);
+            String octal=Integer.toOctalString(numero);
+            String hexadecimal=Integer.toHexString(numero);
+            System.out.println("Tu numero en binario es: "+binario);
+            System.out.println("Tu numero en octal es: "+octal);
+            System.out.println("Tu numero en hexadecimal es: "+hexadecimal.toUpperCase());
         }
         while (numero>1);
 
@@ -82,19 +77,17 @@ public class ejerciciosWhile {
 
 
     }
-    public static void ejercicio5(){
-        int acumulador=0;
-        int numero=-1;
-        while (numero!=0){
-            System.out.println("Introduce un numero");
-            numero=scanner.nextInt();
-            if (numero<0){
-                System.out.println("El numero introducido es negativo. Introduce otro numero :");
-                numero=scanner.nextInt();
-            }else {
-                acumulador+=numero;
-            }
+    public static void ejercicio5() {
+        int numero=(int)(Math.random()*20);
+        int intentos=1;
+        System.out.println("Por favor introduce un numero que coincida con el aleatorio");
+        int numeroUsuario=scanner.nextInt();
+        while (numero!=numeroUsuario){
+            intentos++;
+            System.out.println("Lo siento, intentalo de nuevo:");
+            numeroUsuario=scanner.nextInt();
         }
-        System.out.println("La suma de los numeros positivos es: "+acumulador);
+        System.out.printf("Enhorabuena, has acertado el número en %d intentos",intentos);
+
     }
 }
