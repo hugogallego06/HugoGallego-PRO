@@ -4,21 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="663187a0-bf38-4c5c-9374-1764bbe8937a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Tema3/entraWhile/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tema3/entraWhile/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tema3/entraWhile/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tema3/entraWhile/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tema3/entraWhile/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tema3/entraWhile/entraWhile.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tema3/estructurafor/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tema3/estructurafor/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tema3/estructurafor/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tema3/estructurafor/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tema3/estructurafor/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tema3/estructurafor/estructurafor.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tema3/Ejercicios/src/ejerciciosFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tema3/Ejercicios/src/ejerciciosFor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tema3/production/Ejercicios/ejerciciosFor.class" beforeDir="false" afterPath="$PROJECT_DIR$/Tema3/production/Ejercicios/ejerciciosFor.class" afterDir="false" />
+    <list default="true" id="663187a0-bf38-4c5c-9374-1764bbe8937a" name="Changes" comment="ejerst3">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2024_17_51_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2024_17_51__Changes_.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,22 +22,24 @@
     &quot;assignee&quot;: &quot;hugogallego06&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/hugogallego06/HugoGallego-PRO.git",
-    "accountId": "9fb5b581-1f44-403b-a02d-e6721ddf7f7e"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/hugogallego06/HugoGallego-PRO.git&quot;,
+    &quot;accountId&quot;: &quot;9fb5b581-1f44-403b-a02d-e6721ddf7f7e&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2n9Q6kdZhVkYzv00n4vIhsMdovo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -75,6 +65,17 @@
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ejerst3" />
