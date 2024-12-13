@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="594dce27-2e64-496a-8261-7631b63947f5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Examen-1-HugoGallego/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Examen-1-HugoGallego/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Examen-1-HugoGallego/.idea/easycode.ignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Examen-1-HugoGallego/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Examen-1-HugoGallego/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Examen-1-HugoGallego/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Examen-1-HugoGallego/ExamenHugoGallego.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Examen-1-HugoGallego/src/Ejercicio1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Examen-1-HugoGallego/src/Ejercicio2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Examen-1-HugoGallego/src/Ejercicio3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Examen-1-HugoGallego/src/Ejercicio4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inicial/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inicial/.idea/HugoGallego-PRO.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inicial/.idea/easycode.ignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inicial/.idea/easycode/codebase-v2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inicial/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inicial/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inicial/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inicial/Inicial.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inicial/out/production/T2/Entrada.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inicial/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inicial/untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inicial/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inicial/untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inicial/untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inicial/untitled/out/production/untitled/Entrada.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inicial/untitled/src/Entrada.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inicial/untitled/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/.idea/T2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/.idea/easycode.ignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/ExamenHugoGallego.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/Operadores/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/Operadores/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/Operadores/.idea/easycode.ignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/Operadores/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/Operadores/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/Operadores/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/Operadores/Operadores.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/Operadores/src/Entrada.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/T2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/ejercicios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/ejercicios/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/ejercicios/.idea/easycode.ignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/ejercicios/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/ejercicios/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/ejercicios/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/ejercicios/ejercicios.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/ejercicios/src/Entrada.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/out/production/simulacro/Ejercicio2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/out/production/simulacro/Ejercicio3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/out/production/simulacro/Ejercicio4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/out/production/simulacro/Ejercicio5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/out/production/simulacro/Entrada.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/simulacro/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/simulacro/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/simulacro/.idea/easycode.ignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/simulacro/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/simulacro/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/simulacro/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/simulacro/simulacro.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/simulacro/src/Ejercicio2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/simulacro/src/Ejercicio3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/simulacro/src/Ejercicio4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/simulacro/src/Ejercicio5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/simulacro/src/Entrada.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/untitled/src/Entrada.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/untitled/src/EntradaMaximos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/untitled/src/EntradaTeclado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T2/untitled/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T3/.idea/easycode.ignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T3/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T3/Ejercicios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T3/Ejercicios/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T3/Ejercicios/.idea/easycode.ignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T3/Ejercicios/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T3/Ejercicios/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T3/Ejercicios/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T3/Ejercicios/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T3/Ejercicios/Ejercicios.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T3/Ejercicios/src/ejerciciosFor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T3/Ejercicios/src/ejerciciosSwitch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T3/Ejercicios/src/ejerciciosWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T3/Ejercicios/src/entradaFor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T3/Ejercicios/src/entradaWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T3/Ejercicios/src/simulacroTema3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T3/T3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T3/out/production/T3/ejerciciosFor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T3/out/production/T3/ejerciciosSwitch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T3/out/production/T3/ejerciciosWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T3/out/production/T3/entradaFor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T3/out/production/T3/entradaWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T3/out/production/T3/simulacroTema3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T3/production/Ejercicios/ejemplosEjerciciosFor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T3/production/Ejercicios/ejerciciosDoWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T3/production/Ejercicios/ejerciciosFor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T3/production/Ejercicios/ejerciciosSwitch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema3/examenTema3HugoGallego.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema4/.idea/Tema4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema4/EjerciciosBaseArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema4/Entrada.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema4/out/production/Tema4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema4/out/production/Tema4/.idea/Tema4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema4/out/production/Tema4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema4/out/production/Tema4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema4/out/production/Tema4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema4/out/production/Tema4/EjerciciosBaseArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tema4/out/production/Tema4/Entrada.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "hugogallego06"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/hugogallego06/HugoGallego-PRO.git",
+    "accountId": "9fb5b581-1f44-403b-a02d-e6721ddf7f7e"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2pW2rpLEtIAILAhuiCutEki6Vpe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Usuario DAM1/Documents/GitHub/HugoGallego-PRO/2ª ev"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="594dce27-2e64-496a-8261-7631b63947f5" name="Changes" comment="" />
+      <created>1732867711382</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732867711382</updated>
+    </task>
+    <servers />
+  </component>
+</project>
